@@ -40,6 +40,16 @@
       },
       "@include" : "./arethusa.sg/sg_labels/accusative_cases.json"
     },
+    "abl" : {
+      "short" : "abl",
+      "long" : "ablative",
+      "italian" : "ablativo",
+      "sections" : "1551-1635",
+      "dependency" : {
+        "case" : "acc"
+      },
+      "@include" : "./arethusa.sg/sg_labels/ablative_cases.json"
+    },
     "voc" : {
       "short" : "vct",
       "long" : "vocative",
