@@ -46,7 +46,7 @@
       "italian" : "ablativo",
       "sections" : "1551-1635",
       "dependency" : {
-        "case" : "acc"
+        "case" : "abl"
       },
       "@include" : "./arethusa.sg/sg_labels/ablative_cases.json"
     },
