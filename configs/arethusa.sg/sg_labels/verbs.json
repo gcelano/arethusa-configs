@@ -43,7 +43,7 @@
       "dependency" : {
         "mood" : "gerundive"
       },
-      "@include" : "./arethusa.sg/sg_labels/gerundive.json"
+      "@include" : "./arethusa.sg/sg_labels/gerundive1.json"
     },
     "spn" : {
       "short" : "spn",
