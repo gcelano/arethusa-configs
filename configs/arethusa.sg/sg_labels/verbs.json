@@ -34,7 +34,7 @@
       "dependency" : {
         "mood" : "gerund"
       },
-      "@include" : "./arethusa.sg/sg_labels/gerund.json"
+      "@include" : "./arethusa.sg/sg_labels/cases.json"
     },
     "grd" : {
       "short" : "grd",
