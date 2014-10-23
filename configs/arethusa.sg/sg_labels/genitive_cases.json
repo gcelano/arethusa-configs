@@ -144,54 +144,6 @@
             } 
           }
         },
-        "abl" : {
-          "short" : "abl",
-          "long" : "ablatival",
-          "italian" : "ablativale", 
-          "sections" : "1391-1411",
-          "nested" : {
-            "spr" : {
-              "short" : "spr",
-              "long" : "separation",
-              "italian" : "separazione",
-              "sections" : "1392-1400"
-            },
-            "dst_cmp" : {
-              "short" : "dst_cmp",
-              "long" : "distinction and comparison",
-              "italian" : "distinzione e confronto",
-              "sections" : "1401-1404"
-            },
-            "cau" : {
-              "short" : "cau",
-              "long" : "cause",
-              "italian" : "causa",
-              "sections" : "1405-1407"
-            },
-            "fnl" : {
-              "short" : "fnl",
-              "long" : "purpose",
-              "italian" : "fine",
-              "sections" : "1408"
-            },
-            "src" : {
-              "short" : "src",
-              "long" : "source",
-              "italian" : "fonte",
-              "sections" : "1410-1411"
-            },
-            "nna" : {
-              "short" : "nna",
-              "long" : "none of the above",
-              "italian" : "nessuno dei precedenti"
-            },
-            "idk" : {
-              "short" : "idk",
-              "long" : "I do not know",
-              "italian" : "non so" 
-            }
-          }
-        },
         "tmp_plc" : {
           "short" : "tmp_plc",
           "long" : "time and place",
@@ -342,11 +294,6 @@
               "italian" : "non so" 
             }
           }
-        },
-        "uns" : {
-          "short" : "uns",
-          "long" : "unspecified (only if dep. on adj., adv., or adp.)",
-          "italian" : "non specificato (solo se dip. da agg., avv. or adp.)"
         },
         "nna" : {
           "short" : "nna",
