@@ -52,7 +52,7 @@
       "dependency" : {
         "mood" : "sup"
       },
-      "@include" : "./arethusa.sg/sg_labels/supine.json"
+      "@include" : "./arethusa.sg/sg_labels/cases.json"
     },
     "nna" : {
       "short" : "nna",
