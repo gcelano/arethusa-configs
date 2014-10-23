@@ -1,0 +1,26 @@
+{
+    "nested": {
+        "atr": {
+            "short": "atr",
+            "long": "attributive",
+            "italian": "attributivo",
+            "sections": "2049-2053"
+        },
+        "prp": {
+            "short": "prp",
+            "long": "periphrastic",
+            "italian": "perifrastico",
+            "sections": "2091"
+        },
+        "nna": {
+            "short": "nna",
+            "long": "none of the above",
+            "italian": "nessuno dei precedenti"
+        },
+        "idk": {
+            "short": "idk",
+            "long": "I do not know",
+            "italian": "non so"
+        }
+    }
+}
