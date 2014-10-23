@@ -27,6 +27,33 @@
       },
       "@include" : "./arethusa.sg/sg_labels/infinitives.json"
     },
+    "grn" : {
+      "short" : "grn",
+      "long" : "gerund",
+      "italian" : "gerundio",
+      "dependency" : {
+        "mood" : "gerund"
+      },
+      "@include" : "./arethusa.sg/sg_labels/gerund.json"
+    },
+    "grd" : {
+      "short" : "grd",
+      "long" : "gerundive",
+      "italian" : "gerundivo",
+      "dependency" : {
+        "mood" : "gerundive"
+      },
+      "@include" : "./arethusa.sg/sg_labels/gerundive.json"
+    },
+    "spn" : {
+      "short" : "spn",
+      "long" : "supine",
+      "italian" : "supino",
+      "dependency" : {
+        "mood" : "sup"
+      },
+      "@include" : "./arethusa.sg/sg_labels/supine.json"
+    },
     "nna" : {
       "short" : "nna",
       "long" : "none of the above",
