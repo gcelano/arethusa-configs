@@ -3,6 +3,7 @@
     "fin" : {
       "short" : "fin",
       "long" : "finite verb",
+      "italian" : "verbo di modo finito",
       "dependency" : {
         "pers" : "*"
       },
@@ -11,6 +12,7 @@
     "inf" : {
       "short" : "inf",
       "long" : "infinitive",
+      "italian" : "infinito",
       "dependency" : {
         "mood" : "inf"
       },
@@ -19,6 +21,7 @@
     "prt" : {
       "short" : "prt",
       "long" : "participle",
+      "italian" : "participio",
       "dependency" : {
         "mood" : "part"
       },
@@ -27,6 +30,7 @@
     "grn" : {
       "short" : "grn",
       "long" : "gerund",
+      "italian" : "gerundio",
       "dependency" : {
         "mood" : "gerund"
       },
@@ -35,6 +39,7 @@
     "grd" : {
       "short" : "grd",
       "long" : "gerundive",
+      "italian" : "gerundivo",
       "dependency" : {
         "mood" : "gerundive"
       },
@@ -43,6 +48,7 @@
     "spn" : {
       "short" : "spn",
       "long" : "supine",
+      "italian" : "supino",
       "dependency" : {
         "mood" : "sup"
       },
