@@ -1,1 +1,26 @@
-s
+{
+    "nested": {
+        "sbs": {
+            "short": "adj",
+            "long": "adjective gerundive",
+            "italian": "participio aggettivale",
+            "@include": "./arethusa.sg/sg_labels/gerundive2.json"
+        },
+        "adj": {
+            "short": "sbs",
+            "long": "substantive gerundive",
+            "italian": "participio sostantivato",
+            "@include": "./arethusa.sg/sg_labels/cases.json"
+        },
+        "nna": {
+            "short": "nna",
+            "long": "none of the above",
+            "italian": "nessuno dei precedenti"
+        },
+        "idk": {
+            "short": "idk",
+            "long": "I do not know",
+            "italian": "non so"
+        }
+    }
+}
