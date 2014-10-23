@@ -23,6 +23,30 @@
         "mood" : "part"
       },
       "@include" : "./arethusa.sg/sg_labels/participles.json"
+    },
+    "grn" : {
+      "short" : "grn",
+      "long" : "gerund",
+      "dependency" : {
+        "mood" : "gerund"
+      },
+      "@include" : "./arethusa.sg/sg_labels/gerund.json"
+    },
+    "grd" : {
+      "short" : "grd",
+      "long" : "gerundive",
+      "dependency" : {
+        "mood" : "gerundive"
+      },
+      "@include" : "./arethusa.sg/sg_labels/gerundive.json"
+    },
+    "spn" : {
+      "short" : "spn",
+      "long" : "supine",
+      "dependency" : {
+        "mood" : "sup"
+      },
+      "@include" : "./arethusa.sg/sg_labels/supine.json"
     }
   }
 }
